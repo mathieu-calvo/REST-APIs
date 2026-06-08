@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FastAPI / generated
+*.db
+*.sqlite
+*.sqlite3
+
+# gRPC generated
+*_pb2.py
+*_pb2_grpc.py
+
+# Environment
+.env
+.env.*
+*.log
+
+# LLMs
+.claude
