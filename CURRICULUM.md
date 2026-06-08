@@ -15,9 +15,9 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 01.01 HTTP, REST, Status Codes
 - [x] 01.02 First FastAPI App
 - [x] 01.03 Pydantic Request / Response Validation
-- [ ] 02.01 Path and Query Parameters
-- [ ] 02.02 Request Bodies and Responses
-- [ ] 02.03 Routers and URL Versioning
+- [x] 02.01 Path and Query Parameters
+- [x] 02.02 Request Bodies and Responses
+- [x] 02.03 Routers and URL Versioning
 - [ ] 03.01 Sync vs Async Endpoints
 - [ ] 03.02 Don't Block the Event Loop
 - [ ] 03.03 Background Tasks and Streaming
