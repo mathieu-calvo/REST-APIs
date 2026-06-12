@@ -38,6 +38,11 @@ Thumbs.db
 .env.*
 *.log
 
+# Notebook build / validation artifacts
+_build_*.py
+_validate_*.py
+_risk_module.py
+
 # LLMs
 .claude/*
 !.claude/settings.json

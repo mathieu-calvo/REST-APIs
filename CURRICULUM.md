@@ -18,9 +18,9 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 02.01 Path and Query Parameters
 - [x] 02.02 Request Bodies and Responses
 - [x] 02.03 Routers and URL Versioning
-- [ ] 03.01 Sync vs Async Endpoints
-- [ ] 03.02 Don't Block the Event Loop
-- [ ] 03.03 Background Tasks and Streaming
+- [x] 03.01 Sync vs Async Endpoints
+- [x] 03.02 Don't Block the Event Loop
+- [x] 03.03 Background Tasks and Streaming
 - [ ] 04.01 DI Basics
 - [ ] 04.02 Repository: Swappable Data Sources
 - [ ] 04.03 Settings and Config with Pydantic
