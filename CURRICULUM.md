@@ -21,9 +21,9 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 03.01 Sync vs Async Endpoints
 - [x] 03.02 Don't Block the Event Loop
 - [x] 03.03 Background Tasks and Streaming
-- [ ] 04.01 DI Basics
-- [ ] 04.02 Repository: Swappable Data Sources
-- [ ] 04.03 Settings and Config with Pydantic
+- [x] 04.01 DI Basics
+- [x] 04.02 Repository: Swappable Data Sources
+- [x] 04.03 Settings and Config with Pydantic
 - [ ] 05.01 Bearer Tokens and OAuth2
 - [ ] 05.02 JWT Validation
 - [ ] 05.03 CORS, CSRF, and Rate Limiting
