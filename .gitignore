@@ -44,5 +44,4 @@ _validate_*.py
 _risk_module.py
 
 # LLMs
-.claude/*
-!.claude/settings.json
+.claude/
