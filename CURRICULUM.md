@@ -24,9 +24,9 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 04.01 DI Basics
 - [x] 04.02 Repository: Swappable Data Sources
 - [x] 04.03 Settings and Config with Pydantic
-- [ ] 05.01 Bearer Tokens and OAuth2
-- [ ] 05.02 JWT Validation
-- [ ] 05.03 CORS, CSRF, and Rate Limiting
+- [x] 05.01 Bearer Tokens and OAuth2
+- [x] 05.02 JWT Validation
+- [x] 05.03 CORS, CSRF, and Rate Limiting
 - [ ] 06.01 HTTPException and Handlers
 - [ ] 06.02 Structured Logging
 - [ ] 06.03 Metrics and Tracing
