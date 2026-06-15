@@ -33,10 +33,10 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 07.01 TestClient (sync)
 - [x] 07.02 Async Tests with httpx.AsyncClient
 - [x] 07.03 Fakes and Dependency Overrides
-- [ ] 08.01 Uvicorn, Workers, Lifecycle
-- [ ] 08.02 Dockerizing an API
-- [ ] 08.03 Flask Side-by-Side
-- [ ] 08.04 gRPC: When and Why
+- [x] 08.01 Uvicorn, Workers, Lifecycle
+- [x] 08.02 Dockerizing an API
+- [x] 08.03 Flask Side-by-Side
+- [x] 08.04 gRPC: When and Why
 - [ ] Capstone: `examples/portfolio_analytics_api/`
 
 ---
