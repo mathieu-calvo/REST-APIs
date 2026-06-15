@@ -37,7 +37,7 @@ Tracking document for building out the REST-APIs notebooks. The repo currently h
 - [x] 08.02 Dockerizing an API
 - [x] 08.03 Flask Side-by-Side
 - [x] 08.04 gRPC: When and Why
-- [ ] Capstone: `examples/portfolio_analytics_api/`
+- [x] Capstone: `examples/portfolio_analytics_api/`
 
 ---
 

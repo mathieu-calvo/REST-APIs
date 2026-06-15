@@ -1,0 +1,32 @@
+# Version control
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Tests, docs, build output the runtime image doesn't need
+tests/
+docs/
+build/
+dist/
